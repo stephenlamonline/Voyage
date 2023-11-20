@@ -1,8 +1,6 @@
 # Voyage 
 - the project is aim to develop a analystical model of answers from zhihu or analystical model of food comments and ratings, lastly, a web page will be hosted to contain the informations.
-- the project is currently focusing on the first part, building the zhihu model.
-- the following will be the development stages of first part:
-- 
+- the project is currently focusing on the first part, building the zhihu model. 
 ## Development Stages for Building the Zhihu Model:
 
 1. Data Collection: Gather a sufficient amount of data from Zhihu, a popular Chinese question-and-answer platform. This data will include various questions and corresponding answers from different domains or topics. You can use web scraping techniques or public APIs provided by Zhihu to collect the data.
